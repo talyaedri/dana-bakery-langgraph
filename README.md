@@ -7,7 +7,7 @@ Deterministic bakery order workflow implemented as a Google Colab notebook using
 - `dana_bakery.ipynb`: graph implementation, embedded diagram, and 18 test orders with assertions.
 
 ## Colab
-https://colab.research.google.com/drive/1c9bhlTSFr4hS1w8gt6TaUiW8AVdjt-Rw
+https://colab.research.google.com/github/talyaedri/dana-bakery-langgraph/blob/main/dana_bakery.ipynb
 
 Open the notebook in Colab and select Runtime → Run all. The last test cell should report: `All 18 graph cases and pricing-boundary checks passed.`
 
